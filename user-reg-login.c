@@ -212,7 +212,7 @@ int Login() // If user input checks all the requirement, this login function wil
                 }
         else
                 {
-                        printf("\n\nACCOUNT LOCKED, PLEASE TRY AGAIN AFTER 30 MINUTES.\n\n");\
+                        printf("\n\nACCOUNT LOCKED, PLEASE TRY AGAIN AFTER 30 MINUTES.\n\n");
                 }
                 attempts++;
         }
@@ -273,7 +273,7 @@ int Login2() // This login function for the existing users which will check the 
                 }
         else
                 {
-                        printf("\n\nACCOUNT LOCKED, PLEASE TRY AGAIN AFTER 30 MINUTES.\n\n");\
+                        printf("\n\nACCOUNT LOCKED, PLEASE TRY AGAIN AFTER 30 MINUTES.\n\n");
                 }
                 attempts++;
         }
